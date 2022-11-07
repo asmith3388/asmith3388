@@ -7,3 +7,7 @@ Hi my name is Aubrie, I am currently a student at Devslopes Full Stack Developme
 1. Git
 2. SASS
 3. Media Queries
+
+# What I've done so far
+
+Currently still working on my SASS project, will update later.
